@@ -50,7 +50,7 @@ function KareninAlani(kenaruzunlugu) {
 	4. Hesaplanan çemberin çevresi döndürülecektir.
 */
 
-function CemberinCevresi(/* kodlar buraya */) {
+function CemberinAlanı(/* kodlar buraya */) {
   /* kodlar buraya */
 }
 
